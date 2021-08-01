@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.each-app {
+  background-color: #ffffff;
+  min-height: 190px;
+  min-width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  font-family: 'Bree serif';
+  border-radius: 10px;
+}
+
+.image-edit {
+  height: 70px;
+  width: 100px;
+}
